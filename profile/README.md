@@ -1,5 +1,9 @@
 ## Welcome to Rinble 👋
 
+### Privacy Policy
+
+We do not share your data with third parties without explicit permission.
+
 <!--
 
 **Here are some ideas to get you started:**
